@@ -1,2 +1,2 @@
 # test-OSS
-Testing a open source project
+Testing a real opensource project in this repository
